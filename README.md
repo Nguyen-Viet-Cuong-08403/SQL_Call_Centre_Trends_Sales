@@ -6,7 +6,7 @@ Báo cáo này là một cái nhìn tổng quan về hoạt động của trung 
 
 ## Dashboard 
 
-![Overview].DashBoard.png
+![Overview](DashBoard.png)
 
 
 ### Tổng quan về dữ liệu
